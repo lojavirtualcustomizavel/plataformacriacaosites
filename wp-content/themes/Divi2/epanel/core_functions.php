@@ -113,7 +113,7 @@ function et_add_epanel() {
 		}
 	}
 
-	$core_page = add_theme_page( $themename . ' ' . esc_html__( 'Options', $themename ), $themename . ' ' . esc_html__( 'Theme Options', $themename ), 'switch_themes', basename( __FILE__ ), 'et_build_epanel' );
+	$core_page = add_theme_page( $themename . ' ' . esc_html__( 'Options', $themename ), $themename . ' ' . esc_html__( 'Opções do Tema', '' ), 'switch_themes', basename( __FILE__ ), 'et_build_epanel' );
 
 	add_action( "admin_print_scripts-{$core_page}", 'et_epanel_admin_js' );
 	add_action( "admin_head-{$core_page}", 'et_epanel_css_admin' );
@@ -153,7 +153,7 @@ if ( ! function_exists( 'et_build_epanel' ) ) {
 						<div id="epanel-content-wrap">
 							<div id="epanel-content">
 								<div id="epanel-header">
-									<h1 id="epanel-title"><?php printf( esc_html__( '%s Theme Options', $themename ), $themename ); ?></h1>
+									<h1 id="epanel-title"><?php printf( esc_html__( 'Opções do Tema', '' ), $themename ); ?></h1>
 
 									<?php
 										global $epanelMainTabs;
@@ -780,7 +780,7 @@ function et_epanel_register_portability() {
 	// Register the portability.
 	et_core_portability_register( 'epanel', array(
 		'name'    => sprintf(
-			esc_html__( '%s Theme Options', $themename ),
+			esc_html__( 'Opções do Tema', ''),
 			$themename
 		),
 		'type'    => 'options',

@@ -3,17 +3,15 @@ msgstr ""
 "Project-Id-Version: Divi 1.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
 "POT-Creation-Date: 2016-03-30 15:17:43+00:00\n"
-"PO-Revision-Date: 2016-03-30 01:03+0300\n"
+"PO-Revision-Date: 2016-08-21 02:50-0300\n"
 "Last-Translator: \n"
 "Language-Team: Elegant Themes\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.6\n"
-"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
-"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
-"esc_html_x:1,2c\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
@@ -25,8 +23,7 @@ msgstr ""
 
 #: comments.php:4
 msgid "This post is password protected. Enter the password to view comments."
-msgstr ""
-"Esta postagem é protegida por senha. Digite a senha para ver os comentários."
+msgstr "Esta postagem é protegida por senha. Digite a senha para ver os comentários."
 
 #: comments.php:13
 msgid "0 Comments"
@@ -89,8 +86,8 @@ msgid "Save Changes"
 msgstr "Salvar mudanças"
 
 #: epanel/core_functions.php:148 epanel/core_functions.php:733
-msgid "%s Theme Options"
-msgstr "Opções do tema %s"
+msgid "Theme options"
+msgstr "Opções do tema"
 
 #: epanel/core_functions.php:155
 msgid "Reset to Defaults"
@@ -201,43 +198,16 @@ msgid "Image doesn't exist"
 msgstr "A imagem não existe"
 
 #: epanel/custom_functions.php:1347
-msgid ""
-"<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't "
-"forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will "
-"disappear once you have clicked the Save button within the <a href=\"%2$s"
-"\">theme's options page</a>.</p></div>"
-msgstr ""
-"<div class=\"updated\"><p>Esta é a nova instalação do %1$s tema. Não esqueça "
-"de ir para <a href=\"%2$s\">ePanel</a> para configurá-lo. Esta mensagem vai "
-"desaparecer quando você clicar o botão de Salvar na <a href=\"%2$s\">página "
-"de opções de tema</a>.</p></div>"
+msgid "<div class=\"updated\"><p>This is a fresh installation of %1$s theme. Don't forget to go to <a href=\"%2$s\">ePanel</a> to set it up. This message will disappear once you have clicked the Save button within the <a href=\"%2$s\">theme's options page</a>.</p></div>"
+msgstr "<div class=\"updated\"><p>Esta é a nova instalação do %1$s tema. Não esqueça de ir para <a href=\"%2$s\">ePanel</a> para configurá-lo. Esta mensagem vai desaparecer quando você clicar o botão de Salvar na <a href=\"%2$s\">página de opções de tema</a>.</p></div>"
 
 #: epanel/custom_functions.php:1361
-msgid ""
-"There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox"
-"\" title=\"%1$s\">View version %3$s details</a>. <em>Before you can update "
-"your Elegant Themes, you must first install the <a href=\"https://www."
-"elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank"
-"\">Elegant Updater Plugin</a> to authenticate your subscription.</em>"
-msgstr ""
-"Há uma nova versão %1$s disponível. <a href=\"%2$s\" class=\"thickbox\" "
-"title=\"%1$s\">Visualizar os detalhes %3$s da versão</a>. <em>Antes de você "
-"poder atualizar seus temas Elegantes, você precisa instalar <a href="
-"\"https://www.elegantthemes.com/members-area/documentation.html#updater\" "
-"target=\"_blank\">Elegant Updater Plugin</a> para autenticar sua assinatura."
-"</em>"
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s\">View version %3$s details</a>. <em>Before you can update your Elegant Themes, you must first install the <a href=\"https://www.elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your subscription.</em>"
+msgstr "Há uma nova versão %1$s disponível. <a href=\"%2$s\" class=\"thickbox\" title=\"%1$s\">Visualizar os detalhes %3$s da versão</a>. <em>Antes de você poder atualizar seus temas Elegantes, você precisa instalar <a href=\"https://www.elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank\">Elegant Updater Plugin</a> para autenticar sua assinatura.</em>"
 
 #: epanel/custom_functions.php:1365
-msgid ""
-"Before you can update your Elegant Themes, you must first install the <a "
-"href=\"https://www.elegantthemes.com/members-area/documentation.html#updater"
-"\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your "
-"subscription."
-msgstr ""
-"Antes de você atualizar seus temas Elegantes, você deve primeiro instalar o "
-"<a href=\"https://www.elegantthemes.com/members-area/documentation."
-"html#updater\" target=\"_blank\">Elegant Updater Plugin</a> para autenticar "
-"sua assinatura."
+msgid "Before you can update your Elegant Themes, you must first install the <a href=\"https://www.elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank\">Elegant Updater Plugin</a> to authenticate your subscription."
+msgstr "Antes de você atualizar seus temas Elegantes, você deve primeiro instalar o <a href=\"https://www.elegantthemes.com/members-area/documentation.html#updater\" target=\"_blank\">Elegant Updater Plugin</a> para autenticar sua assinatura."
 
 #: epanel/shortcodes/shortcodes.php:15 epanel/shortcodes/shortcodes.php:518
 msgid "Previous"
@@ -416,9 +386,7 @@ msgstr "Velocidade Automática"
 
 #: epanel/shortcodes/shortcodes.php:1081
 msgid "Automattic slider speed (works only if Auto is set to yes)"
-msgstr ""
-"Velocidade do cursor automática (funciona apenas se o automático for "
-"definido como sim)"
+msgstr "Velocidade do cursor automática (funciona apenas se o automático for definido como sim)"
 
 #: epanel/shortcodes/shortcodes.php:1085
 msgid "Tab Text"
@@ -473,15 +441,8 @@ msgid "Footer Menu"
 msgstr "Menu de Rodapé"
 
 #: functions.php:89
-msgid ""
-"Welcome to Divi! Before diving in to your new theme, please visit the <a "
-"style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank"
-"\">Divi Documentation</a> page for access to dozens of in-depth tutorials."
-msgstr ""
-"Bem-vindo ao Divi! Antes de mergulhar no seu novo tema, por favor, visite a "
-"página<a style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target="
-"\"_blank\">Divi Documentation</a> para acessar dezenas de tutoriais "
-"aprofundados."
+msgid "Welcome to Divi! Before diving in to your new theme, please visit the <a style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank\">Divi Documentation</a> page for access to dozens of in-depth tutorials."
+msgstr "Bem-vindo ao Divi! Antes de mergulhar no seu novo tema, por favor, visite a página<a style=\"color: #fff; font-weight: bold;\" href=\"%1$s\" target=\"_blank\">Divi Documentation</a> para acessar dezenas de tutoriais aprofundados."
 
 #: functions.php:214
 msgid "Select Page"
@@ -674,11 +635,8 @@ msgid "Color Schemes"
 msgstr "Cor dos Esquemas"
 
 #: functions.php:698
-msgid ""
-"Note: Color settings set above should be applied to the Default color scheme."
-msgstr ""
-"Nota: As configurações de cores definidas acima devem ser aplicadas no "
-"esquema de cores padrão."
+msgid "Note: Color settings set above should be applied to the Default color scheme."
+msgstr "Nota: As configurações de cores definidas acima devem ser aplicadas no esquema de cores padrão."
 
 #: functions.php:702
 msgid "Buttons"
@@ -1672,12 +1630,8 @@ msgid "No Results Found"
 msgstr "Nenhum resultado encontrado"
 
 #: includes/no-results.php:4
-msgid ""
-"The page you requested could not be found. Try refining your search, or use "
-"the navigation above to locate the post."
-msgstr ""
-"A página que você solicitou não foi encontrada. Tente refinar sua pesquisa, "
-"ou use a navegação acima para localizar a postagem."
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "A página que você solicitou não foi encontrada. Tente refinar sua pesquisa, ou use a navegação acima para localizar a postagem."
 
 #: includes/social_icons.php:6
 msgid "Facebook"
@@ -1774,11 +1728,8 @@ msgid "Alt"
 msgstr "Alt"
 
 #: includes/widgets/widget-ads.php:243
-msgid ""
-"If you don't want to display some banners - leave approptiate fields blank"
-msgstr ""
-"Se você não deseja exibir algum banner – deixe os campos apropriados em "
-"branco"
+msgid "If you don't want to display some banners - leave approptiate fields blank"
+msgstr "Se você não deseja exibir algum banner – deixe os campos apropriados em branco"
 
 #: includes/widgets/widget-adsense.php:4
 msgid "Displays Adsense Ads"
@@ -1806,12 +1757,8 @@ msgid "Set As Logo"
 msgstr "Definir como Logo"
 
 #: options_divi.php:50
-msgid ""
-"If you would like to use your own custom logo image click the Upload Image "
-"button."
-msgstr ""
-"Se você quiser usa sua própria imagem como logotipo personalizado, clique no "
-"botão \"Carregar Imagem\"."
+msgid "If you would like to use your own custom logo image click the Upload Image button."
+msgstr "Se você quiser usa sua própria imagem como logotipo personalizado, clique no botão \"Carregar Imagem\"."
 
 #: options_divi.php:53
 msgid "Favicon"
@@ -1822,38 +1769,24 @@ msgid "Set As Favicon"
 msgstr "Definir como Favicon"
 
 #: options_divi.php:58
-msgid ""
-"If you would like to use your own custom favicon image click the Upload "
-"Image button."
-msgstr ""
-"Se você quiser usar sua própria favicon imagem personalizada, clique no "
-"botão \"Carregar Imagem\"."
+msgid "If you would like to use your own custom favicon image click the Upload Image button."
+msgstr "Se você quiser usar sua própria favicon imagem personalizada, clique no botão \"Carregar Imagem\"."
 
 #: options_divi.php:61
 msgid "Fixed Navigation Bar"
 msgstr "Barra de Navegação Fixa"
 
 #: options_divi.php:65
-msgid ""
-"By default the navigation bar stays on top of the screen at all times. We "
-"suggest to disable this option, if you need to use a logo taller than the "
-"default one."
-msgstr ""
-"Por padrão, a barra de navegação permanece no topo da tela em todos os "
-"momentos. Sugerimos desativar esta opção se você precisar de uma imagem "
-"grande no logotipo."
+msgid "By default the navigation bar stays on top of the screen at all times. We suggest to disable this option, if you need to use a logo taller than the default one."
+msgstr "Por padrão, a barra de navegação permanece no topo da tela em todos os momentos. Sugerimos desativar esta opção se você precisar de uma imagem grande no logotipo."
 
 #: options_divi.php:68
 msgid "Enable Divi Gallery"
 msgstr "Habilitar Galeria Divi"
 
 #: options_divi.php:72
-msgid ""
-"Enable this if you want to replace the WordPress default gallery with the "
-"Divi-style gallery."
-msgstr ""
-"Habilite este se você deseja substituir a galeria padrão WordPress com a "
-"galeria de estilo Divi."
+msgid "Enable this if you want to replace the WordPress default gallery with the Divi-style gallery."
+msgstr "Habilite este se você deseja substituir a galeria padrão WordPress com a galeria de estilo Divi."
 
 #: options_divi.php:75
 msgid "Color Pickers Default Palette"
@@ -1861,41 +1794,23 @@ msgstr "Paleta Padrão de Selecionadores de Cor"
 
 #: options_divi.php:80
 msgid "Define the default color palette for color pickers in the Divi Builder."
-msgstr ""
-"Defina a paleta de cores padrão para selecionadores de cor no Divi Builder."
+msgstr "Defina a paleta de cores padrão para selecionadores de cor no Divi Builder."
 
 #: options_divi.php:85
 msgid "Grab the first post image"
 msgstr "Pegue a imagem da primeira postagem"
 
 #: options_divi.php:89
-msgid ""
-"By default thumbnail images are created using custom fields. However, if you "
-"would rather use the images that are already in your post for your thumbnail "
-"(and bypass using custom fields) you can activate this option. Once "
-"activcated thumbnail images will be generated automatically using the first "
-"image in your post. The image must be hosted on your own server."
-msgstr ""
-"Por padrão, as imagens miniaturas são criadas usando campos personalizados. "
-"No entanto, se você preferir usar as imagens que já estão nas suas postagens "
-"para a sua miniatura (usando então os campos personalizados) você pode "
-"ativar esta opção. Uma vez ativado, as imagens em miniatura são geradas "
-"automaticamente, usando a imagem da sua primeira postagem. A imagem deve "
-"estar em seu próprio servidor."
+msgid "By default thumbnail images are created using custom fields. However, if you would rather use the images that are already in your post for your thumbnail (and bypass using custom fields) you can activate this option. Once activcated thumbnail images will be generated automatically using the first image in your post. The image must be hosted on your own server."
+msgstr "Por padrão, as imagens miniaturas são criadas usando campos personalizados. No entanto, se você preferir usar as imagens que já estão nas suas postagens para a sua miniatura (usando então os campos personalizados) você pode ativar esta opção. Uma vez ativado, as imagens em miniatura são geradas automaticamente, usando a imagem da sua primeira postagem. A imagem deve estar em seu próprio servidor."
 
 #: options_divi.php:92
 msgid "Blog Style Mode"
 msgstr "Modo Blog Style"
 
 #: options_divi.php:96
-msgid ""
-"By default the theme truncates your posts on index/homepages automatically "
-"to create post previews. If you would rather show your posts in full on "
-"index pages like a traditional blog then you can activate this feature."
-msgstr ""
-"Por padrão, o tema trunca os trechos das suas postagens automaticamente para "
-"criar as visualizações. Se você prefere mostrar suas postagens em tela "
-"cheia, como um blog tradicional, então você pode ativar este recurso."
+msgid "By default the theme truncates your posts on index/homepages automatically to create post previews. If you would rather show your posts in full on index pages like a traditional blog then you can activate this feature."
+msgstr "Por padrão, o tema trunca os trechos das suas postagens automaticamente para criar as visualizações. Se você prefere mostrar suas postagens em tela cheia, como um blog tradicional, então você pode ativar este recurso."
 
 #: options_divi.php:99
 msgid "Shop Page & Category Page Layout for WooCommerce"
@@ -1903,21 +1818,15 @@ msgstr "Página de Compras & Página de Categorias de Layout para WooCommerce"
 
 #: options_divi.php:108
 msgid "Here you can choose Shop Page & Category Page Layout for WooCommerce."
-msgstr ""
-"Aqui você pode escolher Página de Compras & Página de Categorias de Layout "
-"para WooCommerce."
+msgstr "Aqui você pode escolher Página de Compras & Página de Categorias de Layout para WooCommerce."
 
 #: options_divi.php:112
 msgid "MailChimp API Key"
 msgstr "MailChimp Chave API"
 
 #: options_divi.php:117
-msgid ""
-"Enter your MailChimp API key. You can create an api key <a target=\"_blank\" "
-"href=\"%1$s\">here</a>"
-msgstr ""
-"Digite sua chave API MailChimp. Você pode criar uma chave api <a target="
-"\"_blank\" href=\"%1$s\">here</a>"
+msgid "Enter your MailChimp API key. You can create an api key <a target=\"_blank\" href=\"%1$s\">here</a>"
+msgstr "Digite sua chave API MailChimp. Você pode criar uma chave api <a target=\"_blank\" href=\"%1$s\">here</a>"
 
 #: options_divi.php:120
 msgid "Aweber Authorization"
@@ -1932,30 +1841,16 @@ msgid "Regenerate MailChimp Lists"
 msgstr "Regenerar MailChimp Listas"
 
 #: options_divi.php:130
-msgid ""
-"By default, MailChimp lists are cached for one day. If you added new list, "
-"but it doesn't appear within the Email Optin module settings, activate this "
-"option. Don't forget to disable it once the list has been regenerated."
-msgstr ""
-"Por padrão, as listas MailChimp são armazenados em cache para um dia. Se "
-"você adicionou nova lista, mas ele não aparece nas configurações do módulo "
-"de E-mail Optin, ative essa opção. Não se esqueça de desativá-lo, uma vez "
-"que a lista foi regenerado."
+msgid "By default, MailChimp lists are cached for one day. If you added new list, but it doesn't appear within the Email Optin module settings, activate this option. Don't forget to disable it once the list has been regenerated."
+msgstr "Por padrão, as listas MailChimp são armazenados em cache para um dia. Se você adicionou nova lista, mas ele não aparece nas configurações do módulo de E-mail Optin, ative essa opção. Não se esqueça de desativá-lo, uma vez que a lista foi regenerado."
 
 #: options_divi.php:132
 msgid "Regenerate Aweber Lists"
 msgstr "Listas Aweber Regeneradas"
 
 #: options_divi.php:136
-msgid ""
-"By default, Aweber lists are cached for one day. If you added new list, but "
-"it doesn't appear within the Email Optin module settings, activate this "
-"option. Don't forget to disable it once the list has been regenerated."
-msgstr ""
-"Por padrão, as listas Aweber são armazenados em cache para um dia. Se você "
-"adicionou nova lista, mas ele não aparece nas configurações do módulo de E-"
-"mail Optin, ative essa opção. Não se esqueça de desativá-lo, uma vez que a "
-"lista foi regenerado."
+msgid "By default, Aweber lists are cached for one day. If you added new list, but it doesn't appear within the Email Optin module settings, activate this option. Don't forget to disable it once the list has been regenerated."
+msgstr "Por padrão, as listas Aweber são armazenados em cache para um dia. Se você adicionou nova lista, mas ele não aparece nas configurações do módulo de E-mail Optin, ative essa opção. Não se esqueça de desativá-lo, uma vez que a lista foi regenerado."
 
 #: options_divi.php:138
 msgid "Show Facebook Icon"
@@ -1963,8 +1858,7 @@ msgstr "Mostrar Facebook Ícone"
 
 #: options_divi.php:142
 msgid "Here you can choose to display the Facebook Icon on your homepage. "
-msgstr ""
-"Aqui você pode optar por mostrar o ícone do Facebook na sua página inicial. "
+msgstr "Aqui você pode optar por mostrar o ícone do Facebook na sua página inicial. "
 
 #: options_divi.php:144
 msgid "Show Twitter Icon"
@@ -1980,8 +1874,7 @@ msgstr "Mostrar Google+ Ícone"
 
 #: options_divi.php:154
 msgid "Here you can choose to display the Google+ Icon on your homepage. "
-msgstr ""
-"Aqui você pode optar por mostrar o ícone do Google+ na sua página inicial "
+msgstr "Aqui você pode optar por mostrar o ícone do Google+ na sua página inicial "
 
 #: options_divi.php:156
 msgid "Show RSS Icon"
@@ -2028,86 +1921,48 @@ msgid "Number of Products displayed on WooCommerce archive pages"
 msgstr "Número de produtos exibidos nas páginas de arquivo do WooCommerce"
 
 #: options_divi.php:194
-msgid ""
-"Here you can designate how many WooCommerce products are displayed on the "
-"archive page. This option works independently from the Settings > Reading "
-"options in wp-admin."
-msgstr ""
-"Aqui você pode designar quantos produtos WooCommerce são exibidos na página "
-"de arquivo. Esta opção funciona independentemente de Configurações > Opções "
-"de leitura em wp-admin."
+msgid "Here you can designate how many WooCommerce products are displayed on the archive page. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Aqui você pode designar quantos produtos WooCommerce são exibidos na página de arquivo. Esta opção funciona independentemente de Configurações > Opções de leitura em wp-admin."
 
 #: options_divi.php:198
 msgid "Number of Posts displayed on Category page"
 msgstr "Número de Postagens exibidas na página de Categorias"
 
 #: options_divi.php:202
-msgid ""
-"Here you can designate how many recent articles are displayed on the "
-"Category page. This option works independently from the Settings > Reading "
-"options in wp-admin."
-msgstr ""
-"Aqui você pode designar quantos artigos recentes são exibidos na sua páginas "
-"de Categorias. Esta opção funciona independentemente das opções de Leitura "
-"em wp-admin."
+msgid "Here you can designate how many recent articles are displayed on the Category page. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Aqui você pode designar quantos artigos recentes são exibidos na sua páginas de Categorias. Esta opção funciona independentemente das opções de Leitura em wp-admin."
 
 #: options_divi.php:206
 msgid "Number of Posts displayed on Archive pages"
 msgstr "Número de postagens exibidas no arquivo de Páginas"
 
 #: options_divi.php:210
-msgid ""
-"Here you can designate how many recent articles are displayed on the Archive "
-"pages. This option works independently from the Settings > Reading options "
-"in wp-admin."
-msgstr ""
-"Aqui você pode designar quantos artigos recentes são exibidos nas páginas de "
-"Arquivos. Esta opção funciona independentemente das opções de Leitura em wp-"
-"admin."
+msgid "Here you can designate how many recent articles are displayed on the Archive pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Aqui você pode designar quantos artigos recentes são exibidos nas páginas de Arquivos. Esta opção funciona independentemente das opções de Leitura em wp-admin."
 
 #: options_divi.php:214
 msgid "Number of Posts displayed on Search pages"
 msgstr "Número de postagens exibidas nas páginas de Pesquisas"
 
 #: options_divi.php:218
-msgid ""
-"Here you can designate how many recent articles are displayed on the Search "
-"results pages. This option works independently from the Settings > Reading "
-"options in wp-admin."
-msgstr ""
-"Aqui você pode designar quantos artigos recentes são exibidos nas páginas de "
-"resultados de busca. Esta opção funciona independentemente das opções de "
-"leitura em wp-admin."
+msgid "Here you can designate how many recent articles are displayed on the Search results pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Aqui você pode designar quantos artigos recentes são exibidos nas páginas de resultados de busca. Esta opção funciona independentemente das opções de leitura em wp-admin."
 
 #: options_divi.php:222
 msgid "Number of Posts displayed on Tag pages"
 msgstr "Número de postagens exibidas nas páginas de Tag"
 
 #: options_divi.php:226
-msgid ""
-"Here you can designate how many recent articles are displayed on the Tag "
-"pages. This option works independently from the Settings > Reading options "
-"in wp-admin."
-msgstr ""
-"Aqui você pode designar quantos artigos recentes são exibidos nas páginas de "
-"Tags. Esta opção funciona independentemente das opções de Leitura em wp-"
-"admin."
+msgid "Here you can designate how many recent articles are displayed on the Tag pages. This option works independently from the Settings > Reading options in wp-admin."
+msgstr "Aqui você pode designar quantos artigos recentes são exibidos nas páginas de Tags. Esta opção funciona independentemente das opções de Leitura em wp-admin."
 
 #: options_divi.php:230
 msgid "Date format"
 msgstr "Formato da Data"
 
 #: options_divi.php:234
-msgid ""
-"This option allows you to change how your dates are displayed. For more "
-"information please refer to the WordPress codex here:<a href='http://codex."
-"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and "
-"Time</a>"
-msgstr ""
-"Esta opção permite alterar a forma como a data é exibida. Para mais "
-"informações consulte o codex da WordPress aqui:<a href='http://codex."
-"wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatando data e "
-"hora</a>"
+msgid "This option allows you to change how your dates are displayed. For more information please refer to the WordPress codex here:<a href='http://codex.wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatting Date and Time</a>"
+msgstr "Esta opção permite alterar a forma como a data é exibida. Para mais informações consulte o codex da WordPress aqui:<a href='http://codex.wordpress.org/Formatting_Date_and_Time' target='_blank'>Formatando data e hora</a>"
 
 #: options_divi.php:238
 msgid "Use excerpts when defined"
@@ -2123,8 +1978,7 @@ msgstr "Responsivo shortcodes"
 
 #: options_divi.php:249
 msgid "Enable this option to make shortcodes respond to various screen sizes"
-msgstr ""
-"Ativar esta opção para fazer shortcodes responder aos vários tamanhos de tela"
+msgstr "Ativar esta opção para fazer shortcodes responder aos vários tamanhos de tela"
 
 #: options_divi.php:252
 msgid "Google Fonts subsets"
@@ -2140,8 +1994,7 @@ msgstr "Botão de Voltar ao Topo"
 
 #: options_divi.php:263
 msgid "Enable this option to display Back To Top Button while scrolling"
-msgstr ""
-"Ativar esta opção para exibir o botão de Voltar ao Topo durante a rolagem"
+msgstr "Ativar esta opção para exibir o botão de Voltar ao Topo durante a rolagem"
 
 #: options_divi.php:266
 msgid "Smooth Scrolling"
@@ -2149,20 +2002,15 @@ msgstr "Rolagem Suave"
 
 #: options_divi.php:270
 msgid "Enable this option to get the smooth scrolling effect with mouse wheel"
-msgstr ""
-"Ativar esta opção para obter o efeito de rolagem suave com a roda do mouse"
+msgstr "Ativar esta opção para obter o efeito de rolagem suave com a roda do mouse"
 
 #: options_divi.php:273
 msgid "Disable Translations"
 msgstr "Desabilitar traduções"
 
 #: options_divi.php:277
-msgid ""
-"Disable translations if you don't want to display translated theme strings "
-"on your site."
-msgstr ""
-"Desabilite as traduções se você não deseja exibir cadeias de caracteres de "
-"temas traduzidas em seu site."
+msgid "Disable translations if you don't want to display translated theme strings on your site."
+msgstr "Desabilite as traduções se você não deseja exibir cadeias de caracteres de temas traduzidas em seu site."
 
 #: options_divi.php:280
 msgid "Custom CSS"
@@ -2170,9 +2018,7 @@ msgstr "Customize CSS"
 
 #: options_divi.php:284
 msgid "Here you can add custom css to override or extend default styles."
-msgstr ""
-"Aqui você pode adicionar sua customização CSS para substituir ou alterar os "
-"padrões de estilo."
+msgstr "Aqui você pode adicionar sua customização CSS para substituir ou alterar os padrões de estilo."
 
 #: options_divi.php:289
 msgid "Memory Limit Increase"
@@ -2191,41 +2037,24 @@ msgid "Exclude pages from the navigation bar"
 msgstr "Excluir páginas na barra de navegação"
 
 #: options_divi.php:333
-msgid ""
-"Here you can choose to remove certain pages from the navigation menu. All "
-"pages marked with an X will not appear in your navigation bar. "
-msgstr ""
-"Aqui você pode escolher remover certas páginas do menu de navegação. Todas "
-"as páginas marcadas com um X não irão aparecer na sua barra de navegação. "
+msgid "Here you can choose to remove certain pages from the navigation menu. All pages marked with an X will not appear in your navigation bar. "
+msgstr "Aqui você pode escolher remover certas páginas do menu de navegação. Todas as páginas marcadas com um X não irão aparecer na sua barra de navegação. "
 
 #: options_divi.php:337 options_divi.php:387
 msgid "Show dropdown menus"
 msgstr "Mostrar menus pendentes"
 
 #: options_divi.php:341
-msgid ""
-"If you would like to remove the dropdown menus from the pages navigation bar "
-"disable this feature."
-msgstr ""
-"Se você quiser remover os menus pendentes na barra de nevageção de páginas, "
-"desative este recurso."
+msgid "If you would like to remove the dropdown menus from the pages navigation bar disable this feature."
+msgstr "Se você quiser remover os menus pendentes na barra de nevageção de páginas, desative este recurso."
 
 #: options_divi.php:344
 msgid "Display Home link"
 msgstr "Mostrar link da Página Inicial"
 
 #: options_divi.php:348
-msgid ""
-"By default the theme creates a Home link that, when clicked, leads back to "
-"your blog's homepage. If, however, you are using a static homepage and have "
-"already created a page called Home to use, this will result in a duplicate "
-"link. In this case you should disable this feature to remove the link."
-msgstr ""
-"Por padrão, o tema cria um link da Página Inicial que, quando clicado, leva "
-"de volta à página inicial do seu blog. Se, no entanto, você estiver usando "
-"uma página estática e já criou uma Página Inicial, isso resultará em um link "
-"duplicado. Neste caso, você deve desabilitar este recurso para remover o "
-"link."
+msgid "By default the theme creates a Home link that, when clicked, leads back to your blog's homepage. If, however, you are using a static homepage and have already created a page called Home to use, this will result in a duplicate link. In this case you should disable this feature to remove the link."
+msgstr "Por padrão, o tema cria um link da Página Inicial que, quando clicado, leva de volta à página inicial do seu blog. Se, no entanto, você estiver usando uma página estática e já criou uma Página Inicial, isso resultará em um link duplicado. Neste caso, você deve desabilitar este recurso para remover o link."
 
 #: options_divi.php:351
 msgid "Sort Pages Links"
@@ -2240,104 +2069,60 @@ msgid "Order Pages Links by Ascending/Descending"
 msgstr "Ordenar os Links das Páginas em Ordem Crescente ou Descrescente"
 
 #: options_divi.php:362
-msgid ""
-"Here you can choose to reverse the order that your pages links are "
-"displayed. You can choose between ascending and descending."
-msgstr ""
-"Aqui você pode escolher inverter as ordens em que os Links de Páginas são "
-"exibidos. Você pode escolher entre crescente ou decrescente."
+msgid "Here you can choose to reverse the order that your pages links are displayed. You can choose between ascending and descending."
+msgstr "Aqui você pode escolher inverter as ordens em que os Links de Páginas são exibidos. Você pode escolher entre crescente ou decrescente."
 
 #: options_divi.php:365 options_divi.php:401
 msgid "Number of dropdown tiers shown"
 msgstr "Número de níveis pendentes mostrados"
 
 #: options_divi.php:369 options_divi.php:405
-msgid ""
-"This options allows you to control how many teirs your pages dropdown menu "
-"has. Increasing the number allows for additional menu items to be shown."
-msgstr ""
-"Esta opção permite controlar quantos níveis suas páginas de menu pendentes "
-"tem. Aumentar o número permite que os itens de menu adicionais sejam "
-"mostrados."
+msgid "This options allows you to control how many teirs your pages dropdown menu has. Increasing the number allows for additional menu items to be shown."
+msgstr "Esta opção permite controlar quantos níveis suas páginas de menu pendentes tem. Aumentar o número permite que os itens de menu adicionais sejam mostrados."
 
 #: options_divi.php:379
 msgid "Exclude categories from the navigation bar"
 msgstr "Excluir categorias da barra de navegação"
 
 #: options_divi.php:383
-msgid ""
-"Here you can choose to remove certain categories from the navigation menu. "
-"All categories marked with an X will not appear in your navigation bar. "
-msgstr ""
-"Aqui você pode escolher remover certas categorias do menu de navegação. "
-"Todas as categorias marcadas com um X não irão aparecer na barra de "
-"navegação. "
+msgid "Here you can choose to remove certain categories from the navigation menu. All categories marked with an X will not appear in your navigation bar. "
+msgstr "Aqui você pode escolher remover certas categorias do menu de navegação. Todas as categorias marcadas com um X não irão aparecer na barra de navegação. "
 
 #: options_divi.php:391
-msgid ""
-"If you would like to remove the dropdown menus from the categories "
-"navigation bar disable this feature."
-msgstr ""
-"Se você quiser remover os menus pendentes das categorias na barra de "
-"navegação, desative este recurso"
+msgid "If you would like to remove the dropdown menus from the categories navigation bar disable this feature."
+msgstr "Se você quiser remover os menus pendentes das categorias na barra de navegação, desative este recurso"
 
 #: options_divi.php:394
 msgid "Hide empty categories"
 msgstr "Ocultar categorias vazias"
 
 #: options_divi.php:398
-msgid ""
-"If you would like categories to be displayed in your navigationbar that "
-"don't have any posts in them then disable this option. By default empty "
-"categories are hidden"
-msgstr ""
-"Se você quiser que as categorias que são exibidas na barra de navegação, não "
-"tenham quaisquer postagens, então desabilite esta opção. Por padrão, as "
-"categorias vazias ficarão ocultas."
+msgid "If you would like categories to be displayed in your navigationbar that don't have any posts in them then disable this option. By default empty categories are hidden"
+msgstr "Se você quiser que as categorias que são exibidas na barra de navegação, não tenham quaisquer postagens, então desabilite esta opção. Por padrão, as categorias vazias ficarão ocultas."
 
 #: options_divi.php:409
 msgid "Sort Categories Links by Name/ID/Slug/Count/Term Group"
 msgstr "Ordenar os Links de Categorias por Name/ID/Slug/Count/Term Grupo"
 
 #: options_divi.php:413
-msgid ""
-"By default pages are sorted by name. However if you would rather have them "
-"sorted by ID you can adjust this setting."
-msgstr ""
-"Por padrão, as páginas são classificas pelo nome. No entanto, se você "
-"preferir classificar por ID você pode modificar a configuração."
+msgid "By default pages are sorted by name. However if you would rather have them sorted by ID you can adjust this setting."
+msgstr "Por padrão, as páginas são classificas pelo nome. No entanto, se você preferir classificar por ID você pode modificar a configuração."
 
 #: options_divi.php:416
 msgid "Order Category Links by Ascending/Descending"
 msgstr "Ordenar os Links de Categorias por ordem crescente ou decrescente"
 
 #: options_divi.php:420
-msgid ""
-"Here you can choose to reverse the order that your categories links are "
-"displayed. You can choose between ascending and descending."
-msgstr ""
-"Aqui você pode escolher em reverter a ordem em que os Links de Categorias "
-"são exibidos. Você pode escolher entre crescente ou decrescente."
+msgid "Here you can choose to reverse the order that your categories links are displayed. You can choose between ascending and descending."
+msgstr "Aqui você pode escolher em reverter a ordem em que os Links de Categorias são exibidos. Você pode escolher entre crescente ou decrescente."
 
 #: options_divi.php:429
 msgid "Disable top tier dropdown menu links"
 msgstr "Desativar os Links Principais pendentes no Menu"
 
 #: options_divi.php:433
-msgid ""
-"In some cases users will want to create parent categories or links as "
-"placeholders to hold a list of child links or categories. In this case it is "
-"not desirable to have the parent links lead anywhere, but instead merely "
-"serve an organizational function. Enabling this options will remove the "
-"links from all parent pages/categories so that they don't lead anywhere when "
-"clicked."
-msgstr ""
-"Em algus casos, os usuários vão querer criar categorias principais ou links "
-"com espaços reservados para manter links infantis ou categorias. Neste caso, "
-"não é desejável ter os links principais que não levam a lugar nenhum, mas em "
-"vez disso servir apenas para uma função organizacional. Ativando esta opção "
-"serão removidos todos os links principais de páginas/categorias, para que "
-"não levem a lugar algum quando clicados."
+msgid "In some cases users will want to create parent categories or links as placeholders to hold a list of child links or categories. In this case it is not desirable to have the parent links lead anywhere, but instead merely serve an organizational function. Enabling this options will remove the links from all parent pages/categories so that they don't lead anywhere when clicked."
+msgstr "Em algus casos, os usuários vão querer criar categorias principais ou links com espaços reservados para manter links infantis ou categorias. Neste caso, não é desejável ter os links principais que não levam a lugar nenhum, mas em vez disso servir apenas para uma função organizacional. Ativando esta opção serão removidos todos os links principais de páginas/categorias, para que não levem a lugar algum quando clicados."
 
 #: options_divi.php:451
 msgid "Single Post Layout"
@@ -2352,84 +2137,48 @@ msgid "Choose which items to display in the postinfo section"
 msgstr "Escolha quais itens serão exibidos na seção de informação de postagens"
 
 #: options_divi.php:473
-msgid ""
-"Here you can choose which items appear in the postinfo section on single "
-"post pages. This is the area, usually below the post title, which displays "
-"basic information about your post. The highlighted itmes shown below will "
-"appear. "
-msgstr ""
-"Aqui você pode escolher quais itens serão exibidos na seção de informações "
-"de postagens sobre páginas únicas. Esta é a área, geralmente abaixo do "
-"título da postagem, que exibe informações básicas sobre sua postagem. Os "
-"itens destacados abaixo serão exibidos. "
+msgid "Here you can choose which items appear in the postinfo section on single post pages. This is the area, usually below the post title, which displays basic information about your post. The highlighted itmes shown below will appear. "
+msgstr "Aqui você pode escolher quais itens serão exibidos na seção de informações de postagens sobre páginas únicas. Esta é a área, geralmente abaixo do título da postagem, que exibe informações básicas sobre sua postagem. Os itens destacados abaixo serão exibidos. "
 
 #: options_divi.php:477
 msgid "Show comments on posts"
 msgstr "Mostrar comentários nas postagens"
 
 #: options_divi.php:481
-msgid ""
-"You can disable this option if you want to remove the comments and comment "
-"form from single post pages. "
-msgstr ""
-"Você pode desabilitar esta opção se você deseja remover os comentários e "
-"formulário de comentários das postagens. "
+msgid "You can disable this option if you want to remove the comments and comment form from single post pages. "
+msgstr "Você pode desabilitar esta opção se você deseja remover os comentários e formulário de comentários das postagens. "
 
 #: options_divi.php:484
 msgid "Place Thumbs on Posts"
 msgstr "Colocar Imagens em Miniatura nas Postagens"
 
 #: options_divi.php:488
-msgid ""
-"By default thumbnails are placed at the beginning of your post on single "
-"post pages. If you would like to remove this initial thumbnail image to "
-"avoid repetition simply disable this option. "
-msgstr ""
-"Por padrão as miniaturas são colocadas no início da sua postagem, em "
-"postagens de página única. Se você quiser remover esta imagem inicial em "
-"miniatura para evitar repetição, simplesmente desabilite esta opção. "
+msgid "By default thumbnails are placed at the beginning of your post on single post pages. If you would like to remove this initial thumbnail image to avoid repetition simply disable this option. "
+msgstr "Por padrão as miniaturas são colocadas no início da sua postagem, em postagens de página única. Se você quiser remover esta imagem inicial em miniatura para evitar repetição, simplesmente desabilite esta opção. "
 
 #: options_divi.php:497
 msgid "Place Thumbs on Pages"
 msgstr "Colocar Imagens em Miniaturas nas Páginas"
 
 #: options_divi.php:501
-msgid ""
-"By default thumbnails are not placed on pages (they are only used on posts). "
-"However, if you want to use thumbnails on pages you can! Just enable this "
-"option. "
-msgstr ""
-"Por padrão, as miniaturas não são colocadas nas páginas (elas são usadas "
-"somente nas publicações). No entanto, se você deseja usar as miniaturas nas "
-"páginas, você pode! Basta habilitar essa opção."
+msgid "By default thumbnails are not placed on pages (they are only used on posts). However, if you want to use thumbnails on pages you can! Just enable this option. "
+msgstr "Por padrão, as miniaturas não são colocadas nas páginas (elas são usadas somente nas publicações). No entanto, se você deseja usar as miniaturas nas páginas, você pode! Basta habilitar essa opção."
 
 #: options_divi.php:504
 msgid "Show comments on pages"
 msgstr "Mostras comentários nas páginas"
 
 #: options_divi.php:508
-msgid ""
-"By default comments are not placed on pages, however, if you would like to "
-"allow people to comment on your pages simply enable this option. "
-msgstr ""
-"Por padrão, os comentários não são colocados nas páginas, no entanto, se "
-"você quiser permitir que as pessoas comentem na sua página, você pode ativar "
-"esta opção. "
+msgid "By default comments are not placed on pages, however, if you would like to allow people to comment on your pages simply enable this option. "
+msgstr "Por padrão, os comentários não são colocados nas páginas, no entanto, se você quiser permitir que as pessoas comentem na sua página, você pode ativar esta opção. "
 
 #: options_divi.php:517
 msgid "Post info section"
 msgstr "Seção de Informação das Postagens"
 
 #: options_divi.php:521
-msgid ""
-"Here you can choose which items appear in the postinfo section on pages. "
-"This is the area, usually below the post title, which displays basic "
-"information about your post. The highlighted itmes shown below will appear. "
-msgstr ""
-"Aqui você pode escolher quais itens são exibidos na seção de informação de "
-"postagens, sobre as páginas. Esta é a área, geralmente abaixo do título da "
-"postagem, que exibe informações básicas sobre a postagem. Os itens "
-"destacados abaixo serão exibidos. "
+msgid "Here you can choose which items appear in the postinfo section on pages. This is the area, usually below the post title, which displays basic information about your post. The highlighted itmes shown below will appear. "
+msgstr "Aqui você pode escolher quais itens são exibidos na seção de informação de postagens, sobre as páginas. Esta é a área, geralmente abaixo do título da postagem, que exibe informações básicas sobre a postagem. Os itens destacados abaixo serão exibidos. "
 
 #: options_divi.php:524
 msgid "Show Thumbs on Index pages"
@@ -2456,203 +2205,96 @@ msgid " Enable custom title "
 msgstr "Ativar título personalizado "
 
 #: options_divi.php:567
-msgid ""
-"By default the theme uses a combination of your blog name and your blog "
-"description, as defined when you created your blog, to create your homepage "
-"titles. However if you want to create a custom title then simply enable this "
-"option and fill in the custom title field below. "
-msgstr ""
-"Por padrão, o tema usa uma combinação do nome do blog com sua descrição, tal "
-"como definido quando você criou o blog, para criar os títulos da página "
-"inicial. No entanto, se você quiser criar um título personalizado, basta "
-"ativar esta opção e preencher o campo de título personalizado abaixo. "
+msgid "By default the theme uses a combination of your blog name and your blog description, as defined when you created your blog, to create your homepage titles. However if you want to create a custom title then simply enable this option and fill in the custom title field below. "
+msgstr "Por padrão, o tema usa uma combinação do nome do blog com sua descrição, tal como definido quando você criou o blog, para criar os títulos da página inicial. No entanto, se você quiser criar um título personalizado, basta ativar esta opção e preencher o campo de título personalizado abaixo. "
 
 #: options_divi.php:570
 msgid " Enable meta description"
 msgstr "Ativar a descrição da meta tag"
 
 #: options_divi.php:574
-msgid ""
-"By default the theme uses your blog description, as defined when you created "
-"your blog, to fill in the meta description field. If you would like to use a "
-"different description then enable this option and fill in the custom "
-"description field below. "
-msgstr ""
-"Por padrão, o tema usa sua descrição no blog, tal como definido quando você "
-"criou o blog, para preencher o campo da meta tag. Se você quiser uma "
-"descrição diferente, habilite esta opção e preencha o campo da descrição "
-"personalizada abaixo. "
+msgid "By default the theme uses your blog description, as defined when you created your blog, to fill in the meta description field. If you would like to use a different description then enable this option and fill in the custom description field below. "
+msgstr "Por padrão, o tema usa sua descrição no blog, tal como definido quando você criou o blog, para preencher o campo da meta tag. Se você quiser uma descrição diferente, habilite esta opção e preencha o campo da descrição personalizada abaixo. "
 
 #: options_divi.php:577
 msgid " Enable meta keywords"
 msgstr "Ativar meta palavras-chave"
 
 #: options_divi.php:581
-msgid ""
-"By default the theme does not add keywords to your header. Most search "
-"engines don't use keywords to rank your site anymore, but some people define "
-"them anyway just in case. If you want to add meta keywords to your header "
-"then enable this option and fill in the custom keywords field below. "
-msgstr ""
-"Por padrão, o tema não adicionar palavras-chave no cabeçalho. A maioria dos "
-"mecanismos de pequisa não usam palavras-chave para classificar seu site, mas "
-"algumas pessoas os definem de qualquer maneira. Se você quiser adicionar "
-"palavras-chave para o cabeçalho, habilite esta opção e preencha o campo de "
-"palavras-chave personalizadas abaixo. "
+msgid "By default the theme does not add keywords to your header. Most search engines don't use keywords to rank your site anymore, but some people define them anyway just in case. If you want to add meta keywords to your header then enable this option and fill in the custom keywords field below. "
+msgstr "Por padrão, o tema não adicionar palavras-chave no cabeçalho. A maioria dos mecanismos de pequisa não usam palavras-chave para classificar seu site, mas algumas pessoas os definem de qualquer maneira. Se você quiser adicionar palavras-chave para o cabeçalho, habilite esta opção e preencha o campo de palavras-chave personalizadas abaixo. "
 
 #: options_divi.php:584 options_divi.php:711
 msgid " Enable canonical URL's"
 msgstr "Habilitar URL's canônica"
 
 #: options_divi.php:588 options_divi.php:662 options_divi.php:715
-msgid ""
-"Canonicalization helps to prevent the indexing of duplicate content by "
-"search engines, and as a result, may help avoid duplicate content penalties "
-"and pagerank degradation. Some pages may have different URLs all leading to "
-"the same place. For example domain.com, domain.com/index.html, and www."
-"domain.com are all different URLs leading to your homepage. From a search "
-"engine's perspective these duplicate URLs, which also occur often due to "
-"custom permalinks, may be treated individually instead of as a single "
-"destination. Defining a canonical URL tells the search engine which URL you "
-"would like to use officially. The theme bases its canonical URLs off your "
-"permalinks and the domain name defined in the settings tab of wp-admin."
-msgstr ""
-"A canonicalização ajuda a evitar a indexação de conteúdo duplicado por "
-"motores de busca e, como resultado, pode ajudar a evitar penalidades de "
-"conteúdo duplicado e degradação de pagerank. Algumas páginas podem ter URLs "
-"diferentes levando ao mesmo lugar. Por exemplo, domain.com, domain.com/index."
-"html e www.domain.com são URLs diferentes que levam à mesma página inicial. "
-"Da perspectiva do motor de busca, essas URLs duplicadas, que também ocorrem "
-"frequentemente por causa de links customizados, podem ser tratadas "
-"individualmente em vez de tratadas como um destino único. Definir uma URL "
-"canônica diz ao motor de busca qual a URL que você deseja usar oficialmente. "
-"O tema baseia suas URLs canônicas nos seus links e no nome do domínio "
-"definido na aba de configurações de wp-admin."
+msgid "Canonicalization helps to prevent the indexing of duplicate content by search engines, and as a result, may help avoid duplicate content penalties and pagerank degradation. Some pages may have different URLs all leading to the same place. For example domain.com, domain.com/index.html, and www.domain.com are all different URLs leading to your homepage. From a search engine's perspective these duplicate URLs, which also occur often due to custom permalinks, may be treated individually instead of as a single destination. Defining a canonical URL tells the search engine which URL you would like to use officially. The theme bases its canonical URLs off your permalinks and the domain name defined in the settings tab of wp-admin."
+msgstr "A canonicalização ajuda a evitar a indexação de conteúdo duplicado por motores de busca e, como resultado, pode ajudar a evitar penalidades de conteúdo duplicado e degradação de pagerank. Algumas páginas podem ter URLs diferentes levando ao mesmo lugar. Por exemplo, domain.com, domain.com/index.html e www.domain.com são URLs diferentes que levam à mesma página inicial. Da perspectiva do motor de busca, essas URLs duplicadas, que também ocorrem frequentemente por causa de links customizados, podem ser tratadas individualmente em vez de tratadas como um destino único. Definir uma URL canônica diz ao motor de busca qual a URL que você deseja usar oficialmente. O tema baseia suas URLs canônicas nos seus links e no nome do domínio definido na aba de configurações de wp-admin."
 
 #: options_divi.php:591
 msgid "Homepage custom title (if enabled)"
 msgstr "Título Personalizado da Página Inicial (se habilitado)"
 
 #: options_divi.php:595
-msgid ""
-"If you have enabled custom titles you can add your custom title here. "
-"Whatever you type here will be placed between the < title >< /title > tags "
-"in header.php"
-msgstr ""
-"Se você tiver habilitado títulos personalizados, você pode adicionar seu "
-"título aqui. Tudo que você digitar aqui será colocado entre o < title >< /"
-"title > tags em header.php"
+msgid "If you have enabled custom titles you can add your custom title here. Whatever you type here will be placed between the < title >< /title > tags in header.php"
+msgstr "Se você tiver habilitado títulos personalizados, você pode adicionar seu título aqui. Tudo que você digitar aqui será colocado entre o < title >< /title > tags em header.php"
 
 #: options_divi.php:599
 msgid "Homepage meta description (if enabled)"
 msgstr "Descrição meta Página Inicial (se habilitado)"
 
 #: options_divi.php:603
-msgid ""
-"If you have enabled meta descriptions you can add your custom description "
-"here."
-msgstr ""
-"Se você tiver habilitado as descrições, você pode adicionar sua descrição "
-"personalizada aqui."
+msgid "If you have enabled meta descriptions you can add your custom description here."
+msgstr "Se você tiver habilitado as descrições, você pode adicionar sua descrição personalizada aqui."
 
 #: options_divi.php:607
 msgid "Homepage meta keywords (if enabled)"
 msgstr "Palavras-chave meta da Página Inicial (se habilitado)"
 
 #: options_divi.php:611
-msgid ""
-"If you have enabled meta keywords you can add your custom keywords here. "
-"Keywords should be separated by comas. For example: wordpress,themes,"
-"templates,elegant"
-msgstr ""
-"Se você tiver habilitado palavras-chave meta, você adicionar palavras-chave "
-"personalizadas aqui. As palavras-chave devem ser separadas por vírgula. Por "
-"exemplo: wordpress,themes,templates,elegant"
+msgid "If you have enabled meta keywords you can add your custom keywords here. Keywords should be separated by comas. For example: wordpress,themes,templates,elegant"
+msgstr "Se você tiver habilitado palavras-chave meta, você adicionar palavras-chave personalizadas aqui. As palavras-chave devem ser separadas por vírgula. Por exemplo: wordpress,themes,templates,elegant"
 
 #: options_divi.php:615 options_divi.php:689
 msgid "If custom titles are disabled, choose autogeneration method"
-msgstr ""
-"Se os títulos personalizados estiverem desabilitados, escolha o método de "
-"geração automática"
+msgstr "Se os títulos personalizados estiverem desabilitados, escolha o método de geração automática"
 
 #: options_divi.php:620
-msgid ""
-"If you are not using cutsom post titles you can still have control over how "
-"your titles are generated. Here you can choose which order you would like "
-"your post title and blog name to be displayed, or you can remove the blog "
-"name from the title completely."
-msgstr ""
-"Se você não estiver usando títulos de postagens personalizados, você ainda "
-"pode ter controle sobre como os seus títulos são gerados. Aqui você pode "
-"escolher a ordem que você gostaria que o título da sua postagem e o nome do "
-"blog sejam exibidos, ou pode remover o nome do blog comletamente a partir do "
-"título."
+msgid "If you are not using cutsom post titles you can still have control over how your titles are generated. Here you can choose which order you would like your post title and blog name to be displayed, or you can remove the blog name from the title completely."
+msgstr "Se você não estiver usando títulos de postagens personalizados, você ainda pode ter controle sobre como os seus títulos são gerados. Aqui você pode escolher a ordem que você gostaria que o título da sua postagem e o nome do blog sejam exibidos, ou pode remover o nome do blog comletamente a partir do título."
 
 #: options_divi.php:623 options_divi.php:697 options_divi.php:733
 msgid "Define a character to separate BlogName and Post title"
 msgstr "Definir um carácter para separar o nome do site, do título da postagem"
 
 #: options_divi.php:627 options_divi.php:701
-msgid ""
-"Here you can change which character separates your blog title and post name "
-"when using autogenerated post titles. Common values are | or -"
-msgstr ""
-"Aqui você pode alterar qual carácter separa o título do blog e o nome da "
-"postagem ao usar um título de postagem gerado automaticamente. Valores "
-"comuns são | ou -"
+msgid "Here you can change which character separates your blog title and post name when using autogenerated post titles. Common values are | or -"
+msgstr "Aqui você pode alterar qual carácter separa o título do blog e o nome da postagem ao usar um título de postagem gerado automaticamente. Valores comuns são | ou -"
 
 #: options_divi.php:637
 msgid "Enable custom titles"
 msgstr "Habilitar títulos personalizados"
 
 #: options_divi.php:641
-msgid ""
-"By default the theme creates post titles based on the title of your post and "
-"your blog name. If you would like to make your meta title different than "
-"your actual post title you can define a custom title for each post using "
-"custom fields. This option must be enabled for custom titles to work, and "
-"you must choose a custom field name for your title below."
-msgstr ""
-"Por padrão, o tema cria títulos para as postagens com base no título da su "
-"postagem e do nome do seu blog. Se você quiser fazer um título diferente do "
-"título atual da sua postagem, você deve definir um título personalizado para "
-"cada postagem, usando os campos personalizados. Esta opção deve ser "
-"habilitada para os títulos personalizados para o trabalho, e você deve "
-"escolher um nome de domínio personalizado para o título abaixo."
+msgid "By default the theme creates post titles based on the title of your post and your blog name. If you would like to make your meta title different than your actual post title you can define a custom title for each post using custom fields. This option must be enabled for custom titles to work, and you must choose a custom field name for your title below."
+msgstr "Por padrão, o tema cria títulos para as postagens com base no título da su postagem e do nome do seu blog. Se você quiser fazer um título diferente do título atual da sua postagem, você deve definir um título personalizado para cada postagem, usando os campos personalizados. Esta opção deve ser habilitada para os títulos personalizados para o trabalho, e você deve escolher um nome de domínio personalizado para o título abaixo."
 
 #: options_divi.php:644
 msgid "Enable custom description"
 msgstr "Ativar descrição personalizada"
 
 #: options_divi.php:648
-msgid ""
-"If you would like to add a meta description to your post you can do so using "
-"custom fields. This option must be enabled for descriptions to be displayed "
-"on post pages. You can add your meta description using custom fields based "
-"off the custom field name you define below."
-msgstr ""
-"Se você quiser adicionar uma descrição para sua postagem, você pode fazer "
-"isto usando os campos personalizados. Esta opção deve ser habilitada para as "
-"descrições serem exibidas em páginas de postagens. Você pode adicionar sua "
-"descrição usando campos personalizados baseados fora do nome do campo "
-"personalizado que você definir abaixo."
+msgid "If you would like to add a meta description to your post you can do so using custom fields. This option must be enabled for descriptions to be displayed on post pages. You can add your meta description using custom fields based off the custom field name you define below."
+msgstr "Se você quiser adicionar uma descrição para sua postagem, você pode fazer isto usando os campos personalizados. Esta opção deve ser habilitada para as descrições serem exibidas em páginas de postagens. Você pode adicionar sua descrição usando campos personalizados baseados fora do nome do campo personalizado que você definir abaixo."
 
 #: options_divi.php:651
 msgid "Enable custom keywords"
 msgstr "Habilitar palavras-chave personalizadas"
 
 #: options_divi.php:655
-msgid ""
-"If you would like to add meta keywords to your post you can do so using "
-"custom fields. This option must be enabled for keywords to be displayed on "
-"post pages. You can add your meta keywords using custom fields based off the "
-"custom field name you define below."
-msgstr ""
-"Se você quiser adicionar palavras-chave para sua postagem, você pode fazer "
-"isso usando os campos prsonalizados. Esta opção deve ser ativada por "
-"palavras-chave, para ser exibida nas páginas de postagens. Você pode "
-"adicionar suas palavras-chave usando campos personalizados baseados fora o "
-"nome do campo personalizado que for denifido abaixo."
+msgid "If you would like to add meta keywords to your post you can do so using custom fields. This option must be enabled for keywords to be displayed on post pages. You can add your meta keywords using custom fields based off the custom field name you define below."
+msgstr "Se você quiser adicionar palavras-chave para sua postagem, você pode fazer isso usando os campos prsonalizados. Esta opção deve ser ativada por palavras-chave, para ser exibida nas páginas de postagens. Você pode adicionar suas palavras-chave usando campos personalizados baseados fora o nome do campo personalizado que for denifido abaixo."
 
 #: options_divi.php:658
 msgid "Enable canonical URL's"
@@ -2663,94 +2305,48 @@ msgid "Custom field Name to be used for title"
 msgstr "Nome do campo personalizado a sr utilizado para o título"
 
 #: options_divi.php:669
-msgid ""
-"When you define your title using custom fields you should use this value for "
-"the custom field Name. The Value of your custom field should be the custom "
-"title you would like to use."
-msgstr ""
-"Quando você define o seu título usando campos personalizados, você deve usar "
-"este valor para o Nome do campo personalizado. O Valor do seu campo "
-"personalizado deve ser o título personalizado que você gostaria de usar."
+msgid "When you define your title using custom fields you should use this value for the custom field Name. The Value of your custom field should be the custom title you would like to use."
+msgstr "Quando você define o seu título usando campos personalizados, você deve usar este valor para o Nome do campo personalizado. O Valor do seu campo personalizado deve ser o título personalizado que você gostaria de usar."
 
 #: options_divi.php:673
 msgid "Custom field Name to be used for description"
 msgstr "Nome do campo personalizado a ser utilizado para a descrição"
 
 #: options_divi.php:677
-msgid ""
-"When you define your meta description using custom fields you should use "
-"this value for the custom field Name. The Value of your custom field should "
-"be the custom description you would like to use."
-msgstr ""
-"Quando você define a sua descrição usando campos personalizados, você deve "
-"usar este valor para o Nome do campo personalizado. O Valor do campo "
-"personalizado deve ser a descrição personalizada que você gostaria de usar."
+msgid "When you define your meta description using custom fields you should use this value for the custom field Name. The Value of your custom field should be the custom description you would like to use."
+msgstr "Quando você define a sua descrição usando campos personalizados, você deve usar este valor para o Nome do campo personalizado. O Valor do campo personalizado deve ser a descrição personalizada que você gostaria de usar."
 
 #: options_divi.php:681
 msgid "Custom field Name to be used for keywords"
 msgstr "Nome do campo personalizado a ser utilizado por palavras-chave"
 
 #: options_divi.php:685
-msgid ""
-"When you define your keywords using custom fields you should use this value "
-"for the custom field Name. The Value of your custom field should be the meta "
-"keywords you would like to use, separated by comas."
-msgstr ""
-"Ao definir as palavras-chave usando campos personalizados, você deve usar o "
-"valor para o Nome deste campo personalizado. O Valor do seu campo "
-"personalizado devem ser as palavras-chave que você gostaria de usar, "
-"separadas por vírgulas."
+msgid "When you define your keywords using custom fields you should use this value for the custom field Name. The Value of your custom field should be the meta keywords you would like to use, separated by comas."
+msgstr "Ao definir as palavras-chave usando campos personalizados, você deve usar o valor para o Nome deste campo personalizado. O Valor do seu campo personalizado devem ser as palavras-chave que você gostaria de usar, separadas por vírgulas."
 
 #: options_divi.php:694
-msgid ""
-"If you are not using cutsom post titles you can still have control over hw "
-"your titles are generated. Here you can choose which order you would like "
-"your post title and blog name to be displayed, or you can remove the blog "
-"name from the title completely."
-msgstr ""
-"Se você não tiver usando títulos de postagens personalizados, você ainda "
-"pode ter controle de como seus títulos são gerados. Aqui você pode escolher "
-"a ordem que você gostaria que o título da sua postagem e o nome do seu blog "
-"seja exibido, ou você pode remover o nome do blog a partir do título "
-"completamente."
+msgid "If you are not using cutsom post titles you can still have control over hw your titles are generated. Here you can choose which order you would like your post title and blog name to be displayed, or you can remove the blog name from the title completely."
+msgstr "Se você não tiver usando títulos de postagens personalizados, você ainda pode ter controle de como seus títulos são gerados. Aqui você pode escolher a ordem que você gostaria que o título da sua postagem e o nome do seu blog seja exibido, ou você pode remover o nome do blog a partir do título completamente."
 
 #: options_divi.php:718
 msgid "Enable meta descriptions"
 msgstr "Habilitar descrições meta"
 
 #: options_divi.php:722
-msgid ""
-"Check this box if you want to display meta descriptions on category/archive "
-"pages. The description is based off the category description you choose when "
-"creating/edit your category in wp-admin."
-msgstr ""
-"Marque esta opção se você deseja exibir descrições em páginas de categorias/"
-"arquivos. A descrição é baseada fora a descrição da categoria que você "
-"escolheu ao criar/editar sua categoria em wp-admin."
+msgid "Check this box if you want to display meta descriptions on category/archive pages. The description is based off the category description you choose when creating/edit your category in wp-admin."
+msgstr "Marque esta opção se você deseja exibir descrições em páginas de categorias/arquivos. A descrição é baseada fora a descrição da categoria que você escolheu ao criar/editar sua categoria em wp-admin."
 
 #: options_divi.php:725
 msgid "Choose title autogeneration method"
 msgstr "Escolher método de geração do título"
 
 #: options_divi.php:730
-msgid ""
-"Here you can choose how your titles on index pages are generated. You can "
-"change which order your blog name and index title are displayed, or you can "
-"remove the blog name from the title completely."
-msgstr ""
-"Aqui você pode escolher o método como os seus títulos nas páginas de índices "
-"são gerados. Você pode alterar a ordem em que o nome do blog e o título do "
-"índice são exibidos, ou pode remover o nome do blog a partir do título "
-"completamente."
+msgid "Here you can choose how your titles on index pages are generated. You can change which order your blog name and index title are displayed, or you can remove the blog name from the title completely."
+msgstr "Aqui você pode escolher o método como os seus títulos nas páginas de índices são gerados. Você pode alterar a ordem em que o nome do blog e o título do índice são exibidos, ou pode remover o nome do blog a partir do título completamente."
 
 #: options_divi.php:737
-msgid ""
-"Here you can change which character separates your blog title and index page "
-"name when using autogenerated post titles. Common values are | or -"
-msgstr ""
-"Aqui você pode alterar qual carácter separa o título do blog e o nome da "
-"página de índice, ao usar títulos de postagens gerados automaticamente. "
-"Valores comuns são | ou -"
+msgid "Here you can change which character separates your blog title and index page name when using autogenerated post titles. Common values are | or -"
+msgstr "Aqui você pode alterar qual carácter separa o título do blog e o nome da página de índice, ao usar títulos de postagens gerados automaticamente. Valores comuns são | ou -"
 
 #: options_divi.php:756
 msgid "Code Integration"
@@ -2761,99 +2357,60 @@ msgid "Enable header code"
 msgstr "Habilitar código de cabeçalho"
 
 #: options_divi.php:768
-msgid ""
-"Disabling this option will remove the header code below from your blog. This "
-"allows you to remove the code while saving it for later use."
-msgstr ""
-"Desativar esta opção irá remover o cógido de cabeçalho do seu blog. Isto "
-"permite que você remova o código, poupando-o para usar mais tarde."
+msgid "Disabling this option will remove the header code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr "Desativar esta opção irá remover o cógido de cabeçalho do seu blog. Isto permite que você remova o código, poupando-o para usar mais tarde."
 
 #: options_divi.php:771
 msgid "Enable body code"
 msgstr "Habilitar < body > código"
 
 #: options_divi.php:775
-msgid ""
-"Disabling this option will remove the body code below from your blog. This "
-"allows you to remove the code while saving it for later use."
-msgstr ""
-"Desativar esta opção irá remover o código da matéria do seu blog. Isto "
-"permite que você remova o código, poupando-o para usar mais tarde."
+msgid "Disabling this option will remove the body code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr "Desativar esta opção irá remover o código da matéria do seu blog. Isto permite que você remova o código, poupando-o para usar mais tarde."
 
 #: options_divi.php:778
 msgid "Enable single top code"
 msgstr "Habilitar código único"
 
 #: options_divi.php:782
-msgid ""
-"Disabling this option will remove the single top code below from your blog. "
-"This allows you to remove the code while saving it for later use."
-msgstr ""
-"Desabilitar esta opção irá remover o código único do seu blog. Isto permite "
-"que você remova o código, poupando-o para usar mais tarde."
+msgid "Disabling this option will remove the single top code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr "Desabilitar esta opção irá remover o código único do seu blog. Isto permite que você remova o código, poupando-o para usar mais tarde."
 
 #: options_divi.php:785
 msgid "Enable single bottom code"
 msgstr "Habilitar código inferior único"
 
 #: options_divi.php:789
-msgid ""
-"Disabling this option will remove the single bottom code below from your "
-"blog. This allows you to remove the code while saving it for later use."
-msgstr ""
-"Desativar esta opção irá remover o código inferior único do seu blog. Isto "
-"permite que você remova o código, poupando-o para usar mais tarde."
+msgid "Disabling this option will remove the single bottom code below from your blog. This allows you to remove the code while saving it for later use."
+msgstr "Desativar esta opção irá remover o código inferior único do seu blog. Isto permite que você remova o código, poupando-o para usar mais tarde."
 
 #: options_divi.php:792
 msgid "Add code to the < head > of your blog"
 msgstr "Adicionar código para a < head > do seu blog"
 
 #: options_divi.php:796
-msgid ""
-"Any code you place here will appear in the head section of every page of "
-"your blog. This is useful when you need to add javascript or css to all "
-"pages."
-msgstr ""
-"Qualquer código que você colocar aqui será exibido na seção de cabeçalho de "
-"todas as páginas do seu blog. Isto é útil quando você precisa adicionar "
-"Javascript ou CSS para todas as páginas."
+msgid "Any code you place here will appear in the head section of every page of your blog. This is useful when you need to add javascript or css to all pages."
+msgstr "Qualquer código que você colocar aqui será exibido na seção de cabeçalho de todas as páginas do seu blog. Isto é útil quando você precisa adicionar Javascript ou CSS para todas as páginas."
 
 #: options_divi.php:799
-msgid ""
-"Add code to the < body > (good for tracking codes such as google analytics)"
-msgstr ""
-"Adicionar código para o < body > (bom para código de controle, tais como "
-"Google Analytics)"
+msgid "Add code to the < body > (good for tracking codes such as google analytics)"
+msgstr "Adicionar código para o < body > (bom para código de controle, tais como Google Analytics)"
 
 #: options_divi.php:803
-msgid ""
-"Any code you place here will appear in body section of all pages of your "
-"blog. This is usefull if you need to input a tracking pixel for a state "
-"counter such as Google Analytics."
-msgstr ""
-"Qualquer código que você colocar aqui será exibido na seção da matéria de "
-"todas as páginas do seu blog. Isto é útil se você precisar inserir um pixel "
-"de rastreamento para um contador de estados como Google Analytics."
+msgid "Any code you place here will appear in body section of all pages of your blog. This is usefull if you need to input a tracking pixel for a state counter such as Google Analytics."
+msgstr "Qualquer código que você colocar aqui será exibido na seção da matéria de todas as páginas do seu blog. Isto é útil se você precisar inserir um pixel de rastreamento para um contador de estados como Google Analytics."
 
 #: options_divi.php:806
 msgid "Add code to the top of your posts"
 msgstr "Adicionar cógido para o início das postagens"
 
 #: options_divi.php:810 options_divi.php:817
-msgid ""
-"Any code you place here will be placed at the top of all single posts. This "
-"is useful if you are looking to integrating things such as social "
-"bookmarking links."
-msgstr ""
-"Qualquer código que você colocar aqui será colocado no início de todas as "
-"suas postagens. Isto é útil se você quiser integrar as coisas, tais como "
-"links sociais e salvar favoritos."
+msgid "Any code you place here will be placed at the top of all single posts. This is useful if you are looking to integrating things such as social bookmarking links."
+msgstr "Qualquer código que você colocar aqui será colocado no início de todas as suas postagens. Isto é útil se você quiser integrar as coisas, tais como links sociais e salvar favoritos."
 
 #: options_divi.php:813
 msgid "Add code to the bottom of your posts, before the comments"
-msgstr ""
-"Adicionar código para a parte inferior das suas postagens, antes dos "
-"comentários"
+msgstr "Adicionar código para a parte inferior das suas postagens, antes dos comentários"
 
 #: options_divi.php:835
 msgid "Manage Un-widgetized Advertisements"
@@ -2864,14 +2421,8 @@ msgid "Enable Single Post 468x60 banner"
 msgstr "Habilitar Postagem Única 468x60 banner"
 
 #: options_divi.php:847
-msgid ""
-"Enabling this option will display a 468x60 banner ad on the bottom of your "
-"post pages below the single post content. If enabled you must fill in the "
-"banner image and destination url below."
-msgstr ""
-"Ativar esta opção irá exibir um banner 468x60 nas parte inferior das suas "
-"páginas de postagens, abaixo das postagens únicas. Se ativada, você deve "
-"preencher a imagem e o destino da URL."
+msgid "Enabling this option will display a 468x60 banner ad on the bottom of your post pages below the single post content. If enabled you must fill in the banner image and destination url below."
+msgstr "Ativar esta opção irá exibir um banner 468x60 nas parte inferior das suas páginas de postagens, abaixo das postagens únicas. Se ativada, você deve preencher a imagem e o destino da URL."
 
 #: options_divi.php:850
 msgid "Input 468x60 advertisement banner image"
