@@ -130,7 +130,7 @@
  * ePanel Header
  */
 #epanel-header {
-	background: rgb(108, 46, 185);
+	background: rgb(185, 46, 53);
 	padding: 25px 28px;
 	line-height: .8;
 	position: relative;
@@ -141,7 +141,7 @@ h1#epanel-title {
 	font-weight: 100;
 	font-size: 22px;
 	color: rgb(255, 255, 255);
-	background-color: rgb(108, 46, 185);
+	background-color: rgb(185, 46, 53);
 	border-bottom: 0px;
 	line-height: 18px;
 	margin-bottom: 0px;
@@ -157,7 +157,7 @@ h1#epanel-title {
 	text-transform: none;
 	line-height: 1;
 	-webkit-font-smoothing: antialiased;
-	content: "<";
+	content: "\51";
 	display: block;
 	position: absolute;
 	left: 0;
@@ -179,12 +179,12 @@ h1#epanel-title {
 	right: 20px;
 	z-index: 50;
 	color: white;
-	background-color: #7e3bd0;
+	background-color: #d03b45;
 	transition: all 0.3s;
 }
 
 #epanel-header .defaults-button:hover {
-	background-color: #8F42ED;
+	background-color: #b92e35;
 }
 
 #epanel-header .defaults-button:focus {
@@ -206,7 +206,7 @@ h1#epanel-title {
  * Primary Tab Menu
  */
 #epanel-mainmenu {
-	background-color: #7e3bd0;
+	background-color: #d03b45;
 	display: block;
 	width: 100%;
 	float: left;
@@ -223,7 +223,7 @@ h1#epanel-title {
 
 #epanel-mainmenu a:hover,
 #epanel-mainmenu li.ui-state-active a {
-	background-color: #8F42ED;
+	background-color: #b92e35;
 }
 
 #epanel-mainmenu a {
@@ -613,7 +613,7 @@ input.checkbox.yes_no_button {
 	transition: background .5s;
 	color: #FFF;
 	cursor: pointer;
-	background-color: #00C3AA;
+	background-color: #b92e35;
 	-webkit-box-shadow: none;
 	-moz-box-shadow: none;
 	box-shadow: none;
@@ -632,7 +632,7 @@ input.checkbox.yes_no_button {
 }
 
 .save-button:hover {
-	background-color: #00BBA3;
+	background-color: #d03b45;
 }
 
 /* Reset Popup */
