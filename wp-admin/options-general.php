@@ -82,19 +82,19 @@ include( ABSPATH . 'wp-admin/admin-header.php' );
 <td><input name="admin_email" type="email" id="admin_email" aria-describedby="admin-email-description" value="<?php form_option( 'admin_email' ); ?>" class="regular-text ltr" />
 <p class="description" id="admin-email-description"><?php _e( 'This address is used for admin purposes, like new user notification.' ) ?></p></td>
 </tr>
-<tr>
-<th scope="row"><?php _e('Membership') ?></th>
-<td> <fieldset><legend class="screen-reader-text"><span><?php _e('Membership') ?></span></legend><label for="users_can_register">
-<input name="users_can_register" type="checkbox" id="users_can_register" value="1" <?php checked('1', get_option('users_can_register')); ?> />
-<?php _e('Anyone can register') ?></label>
+<!--<tr>
+<th scope="row">//<?php _e('Membership') ?></th>
+<td> <fieldset><legend class="screen-reader-text"><span>//<?php _e('Membership') ?></span></legend><label for="users_can_register">
+<input name="users_can_register" type="checkbox" id="users_can_register" value="1" //<?php checked('1', get_option('users_can_register')); ?> />
+//<?php _e('Anyone can register') ?></label>
 </fieldset></td>
 </tr>
 <tr>
-<th scope="row"><label for="default_role"><?php _e('New User Default Role') ?></label></th>
+<th scope="row"><label for="default_role">//<?php _e('New User Default Role') ?></label></th>
 <td>
-<select name="default_role" id="default_role"><?php wp_dropdown_roles( get_option('default_role') ); ?></select>
+<select name="default_role" id="default_role">//<?php wp_dropdown_roles( get_option('default_role') ); ?></select>
 </td>
-</tr>
+</tr> -->
 <?php } else { ?>
 <tr>
 <th scope="row"><label for="new_admin_email"><?php _e('Email Address') ?> </label></th>
