@@ -845,7 +845,7 @@ $options = array (
 
 //-------------------------------------------------------------------------------------//
 
-	array( "name" => "wrap-updates",
+	/*array( "name" => "wrap-updates",
 		   "type" => "contenttab-wrapstart",),
 
 		array( "type" => "subnavtab-start",),
@@ -888,7 +888,7 @@ $options = array (
 			   "type" => "subcontent-end",),
 
 	array( "name" => "wrap-updates",
-		   "type" => "contenttab-wrapend",),
+		   "type" => "contenttab-wrapend",),*/
 
 //-------------------------------------------------------------------------------------//
 

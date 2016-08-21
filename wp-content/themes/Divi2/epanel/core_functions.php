@@ -173,9 +173,11 @@ if ( ! function_exists( 'et_build_epanel' ) ) {
 									<?php if ( in_array( 'layout', $epanelMainTabs ) ) { ?>
 										<li><a href="#wrap-layout"><?php esc_html_e( 'Layout', $themename ); ?></a></li>
 									<?php } ?>
+                                    
 									<?php if ( in_array( 'ad', $epanelMainTabs ) ) { ?>
 										<li><a href="#wrap-advertisements"><?php esc_html_e( 'Ads', $themename ); ?></a></li>
 									<?php } ?>
+                                    
 									<?php if ( in_array( 'colorization', $epanelMainTabs ) ) { ?>
 										<li><a href="#wrap-colorization"><?php esc_html_e( 'Colorization', $themename ); ?></a></li>
 									<?php } ?>
@@ -185,12 +187,15 @@ if ( ! function_exists( 'et_build_epanel' ) ) {
 									<?php if ( in_array( 'integration', $epanelMainTabs ) ) { ?>
 										<li><a href="#wrap-integration"><?php esc_html_e( 'Integration', $themename ); ?></a></li>
 									<?php } ?>
+                                    
 									<?php if ( in_array( 'support', $epanelMainTabs ) ) { ?>
 										<li><a href="#wrap-support"><?php esc_html_e( 'Support', $themename ); ?></a></li>
 									<?php } ?>
-									<!--/*<?php if ( in_array( 'updates', $epanelMainTabs ) ) { ?>
-										<li><a href="#wrap-updates"><?php esc_html_e( 'Updates', $themename ); ?></a></li>
-									<?php } ?>*/-->
+                                    
+									<!--</?php if ( in_array( 'updates', $epanelMainTabs ) ) { ?>
+										<li><a href="#wrap-updates"></?php esc_html_e( 'Updates', $themename ); ?></a></li>
+									</?php } ?>-->
+                                    
 									<?php do_action( 'epanel_render_maintabs', $epanelMainTabs ); ?>
 								</ul><!-- end epanel mainmenu -->
 
