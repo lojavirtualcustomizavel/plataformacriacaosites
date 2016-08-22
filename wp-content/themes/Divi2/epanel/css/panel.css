@@ -596,7 +596,7 @@ input.checkbox.yes_no_button {
 }
 
 .save-button:before{
-	content: '\l';
+	content: '\e0e4';
 	font-family: 'ETmodules';
 	left: 14px;
 	top:-2px;
@@ -613,7 +613,7 @@ input.checkbox.yes_no_button {
 	transition: background .5s;
 	color: #FFF;
 	cursor: pointer;
-	background-color: #b92e35;
+	background-color: #d03b45;
 	-webkit-box-shadow: none;
 	-moz-box-shadow: none;
 	box-shadow: none;
@@ -632,7 +632,7 @@ input.checkbox.yes_no_button {
 }
 
 .save-button:hover {
-	background-color: #d03b45;
+	background-color: #b92e35;
 }
 
 /* Reset Popup */
@@ -775,7 +775,7 @@ input.checkbox.yes_no_button {
 	font-weight: 100;
 	font-size: 22px;
 	color: rgb(255, 255, 255);
-	background-color: rgb(108, 46, 185);
+	background-color: rgb(208, 59, 69);
 	margin: 0px;
 	padding: 25px 40px;
 	box-sizing: border-box;
@@ -815,11 +815,11 @@ input.checkbox.yes_no_button {
 	background: none;
 	text-align: center;
 	width: 68px;
-	height: 68px;
+	height: 70px;
 	box-sizing: border-box;
 	font-size: 23px;
 	color: rgb(255, 255, 255);
-	background-color: rgb(98, 42, 169);
+	background-color: rgb(208, 59, 69);
 	transition: background 0.5s;
 	cursor: pointer;
 }
@@ -831,7 +831,7 @@ input.checkbox.yes_no_button {
 }
 
 .box-desc-content .lightboxclose:hover {
-	background-color: rgb(85, 37, 146);
+	background-color: rgb(185, 46, 53)
 }
 
 .ui-tabs-hide,

@@ -254,7 +254,7 @@ body button.et-core-button {
 }
 
 .et-core-modal-header {
-	background-color: rgb(108, 46, 185);
+	background-color: rgb(208, 59, 69);
 	margin: 0;
 	padding: 20px 40px;
 	box-sizing: border-box;
@@ -279,7 +279,7 @@ body button.et-core-button {
 	right: 0;
 	z-index: 10;
 	padding: 22px;
-	background-color: #622aa9;
+	background-color: #d03b45;
 	-webkit-transition: background .5s;
 	transition: background .5s;
 }
@@ -287,7 +287,7 @@ body button.et-core-button {
 .et-core-modal-close:hover,
 .et-core-modal-close:focus,
 .et-core-modal-close:active {
-	background-color: #552592;
+	background-color: #b92e35;
 	color: #fff;
 	box-shadow: none;
 }
@@ -345,7 +345,7 @@ body button.et-core-button {
 	padding: 0;
 	cursor: pointer;
 	transition: background .5s;
-	background: #008BDA;
+	background: #dd823b;;
 	text-decoration: none;
 	color: #fff !important;
 }
@@ -353,7 +353,7 @@ body button.et-core-button {
 .et-core-modal-action:hover,
 .et-core-modal-action:focus,
 .et-core-modal-action:active {
-	background: #007cc3;
+	background: #cc6312;
 	box-shadow: none;
 }
 
@@ -378,7 +378,7 @@ body button.et-core-button {
 
 .et-core-tabs,
 .et-core-tabs.ui-widget-header {
-	background: #7e3bd0;
+	background: #b92e35;
 	display: block;
 	width: 100%;
 	overflow: hidden;
@@ -410,7 +410,7 @@ body button.et-core-button {
 
 .et-core-tabs a:hover,
 .et-core-tabs li.ui-state-active a {
-	background-color: #8F42ED;
+	background-color: #d03b45;
 }
 
 .et-core-tabs a {

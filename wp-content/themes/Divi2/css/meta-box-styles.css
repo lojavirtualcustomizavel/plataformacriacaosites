@@ -1,7 +1,14 @@
 /* post meta box */
 
-#et_settings_meta_box .hndle { border: none; color: #fff; background-color: #6C2EB9; padding-left: 38px; }
-#et_settings_meta_box .hndle:before { font-weight: normal; font-family: 'ETmodules'; font-size: 32px; content: '\e625'; display: block; position: absolute; left: 5px; top: -4px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+#et_settings_meta_box .hndle { border: none; color: #fff; background-color: #b92e35; padding-left: 38px; }
+#et_settings_meta_box .hndle:before {     font-weight: normal;
+    font-family: 'ETmodules';
+    font-size: 23px;
+    content: '\e035';
+    display: block;
+    position: absolute;
+    left: 10px;
+    top: 3px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 #et_settings_meta_box .inside { padding-top: 1px !important; }
 #et_settings_meta_box .handlediv { color: #fff; }
 #side-sortables #et_settings_meta_box label, #side-sortables #et_settings_meta_box input, #side-sortables #et_settings_meta_box select { display: inline-block !important; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; }
